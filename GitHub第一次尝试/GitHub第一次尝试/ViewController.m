@@ -22,6 +22,7 @@
 -(void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event{
     NSLog(@"hahaha");
     NSLog(@"已改动");
+    NSLog(@"ddd");
 }
 
 - (void)didReceiveMemoryWarning {
