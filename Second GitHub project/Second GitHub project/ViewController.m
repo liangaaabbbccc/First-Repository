@@ -1,6 +1,6 @@
 //
 //  ViewController.m
-//  GitHub第一次尝试
+//  Second GitHub project
 //
 //  Created by 梁泽华 on 16/5/5.
 //  Copyright © 2016年 梁泽华. All rights reserved.
@@ -17,12 +17,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
-}
-
--(void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event{
     NSLog(@"hahaha");
-    NSLog(@"已改动");
-    NSLog(@"ddd");
+    NSLog(@"yayayay");
 }
 
 - (void)didReceiveMemoryWarning {
